@@ -3,7 +3,7 @@ One photo gallery based on react.</br>
 node -v //6.9.5</br>
 npm -v //3.10.10</br>
 
-<h3>yo react-webpack生成项目</h3>
+#yo react-webpack生成项目
 <h4>phantomjs找不到，报错信息：</h4>
 <i>
 ...</br>
